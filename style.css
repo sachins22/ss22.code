@@ -13,7 +13,7 @@ img {
 a {
 font-family: 'Arial', sans-serif;
  font-size: 3cap;
-text-decoration: dashed;
+/* text-decoration: dashed; */
 }
 
 h1 {
