@@ -74,7 +74,7 @@ body, h3 {
   }
   #N2{
     margin-top: 20px;
-    font-size: 2.5cap;
+    font-size: 2cap;
    
     color: hsl(0, 100%, 40%);
     /* background-color: #333; */
@@ -82,7 +82,7 @@ body, h3 {
 
   #N1{
     margin-top: 20px;
-    font-size: 2.5cap;
+    font-size: 2cap;
    
     color: hsl(0, 100%, 40%);
     /* background-color: #333; */
